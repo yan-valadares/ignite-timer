@@ -48,9 +48,7 @@ export function CyclesContextProvider({
         return JSON.parse(storagedStateAsJSON)
       }
 
-      return {
-        initialState,
-      }
+      return initialState
     },
   )
 
