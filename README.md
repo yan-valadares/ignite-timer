@@ -1,4 +1,4 @@
-<h1 align="center"> Ignite Feed </h1>
+<h1 align="center"> Ignite Timer </h1>
 
 <p align="center">
   <img alt="Preview ignite Timer" src=".github/preview-home-page.png" width="100%">
